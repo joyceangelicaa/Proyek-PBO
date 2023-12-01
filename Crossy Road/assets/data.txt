@@ -1,0 +1,96 @@
+texture.png
+size: 640, 576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alligator1
+  rotate: false
+  xy: 256, 0
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+alligator2
+  rotate: false
+  xy: 336, 0
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+background_640
+  rotate: false
+  xy: 0, 96
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: 480
+car1
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+car2
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 32, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+frog_jump
+  rotate: false
+  xy: 96, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+msg_gameover
+  rotate: false
+  xy: 0, 32
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+msg_win
+  rotate: false
+  xy: 192, 32
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 192, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+wood2
+  rotate: false
+  xy: 128, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+wood3
+  rotate: false
+  xy: 416, 0
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+wood4
+  rotate: false
+  xy: 512, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
